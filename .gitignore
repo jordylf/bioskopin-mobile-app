@@ -1,0 +1,25 @@
+# Zip & Archive files
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# Flutter & Dart artifacts
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.pub-cache/
+**/.pub/
+
+# Composer & PHP dependencies
+**/vendor/
+
+# IDE / Editor & OS files
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
